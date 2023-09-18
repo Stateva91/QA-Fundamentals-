@@ -1,0 +1,15 @@
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.exe
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.deps.json
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.runtimeconfig.json
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\bin\Debug\net6.0\01.NumbersEndingIn7.pdb
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.csproj.AssemblyReference.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\refint\01.NumbersEndingIn7.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.pdb
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\01.NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\01.NumbersEndingIn7\obj\Debug\net6.0\ref\01.NumbersEndingIn7.dll

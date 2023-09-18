@@ -1,0 +1,15 @@
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.exe
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.deps.json
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.runtimeconfig.json
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\bin\Debug\net6.0\04.ExamPreparation.pdb
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.csproj.AssemblyReference.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.AssemblyInfo.cs
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\refint\04.ExamPreparation.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.pdb
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\04.ExamPreparation.genruntimeconfig.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\04.ExamPreparation\obj\Debug\net6.0\ref\04.ExamPreparation.dll

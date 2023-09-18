@@ -1,0 +1,15 @@
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\bin\Debug\net6.0\06.Walking.exe
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\bin\Debug\net6.0\06.Walking.deps.json
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\bin\Debug\net6.0\06.Walking.runtimeconfig.json
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\bin\Debug\net6.0\06.Walking.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\bin\Debug\net6.0\06.Walking.pdb
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.csproj.AssemblyReference.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.AssemblyInfoInputs.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.AssemblyInfo.cs
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.csproj.CoreCompileInputs.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\refint\06.Walking.dll
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.pdb
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\06.Walking.genruntimeconfig.cache
+C:\Users\sneji\source\repos\03.ExerciseSimpleLoops\06.Walking\obj\Debug\net6.0\ref\06.Walking.dll
